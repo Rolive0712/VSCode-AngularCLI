@@ -18,3 +18,4 @@ run command from windows command prompt
 
  do check site below
  https://www.codeproject.com/Articles/1193423/Integrating-the-Angular-CLI-With-Visual-Studio
+ https://www.codeproject.com/Articles/1060262/First-Angular-App-with-TypeScript-and-Visual-Studi
