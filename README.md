@@ -15,3 +15,6 @@ run command from windows command prompt
 
  ensure you are on right folder on vs code and then run
  * ng serve"
+
+ do check site below
+ https://www.codeproject.com/Articles/1193423/Integrating-the-Angular-CLI-With-Visual-Studio
